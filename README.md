@@ -6,13 +6,12 @@ Each project is designed to reinforce theoretical understanding with practical i
 
 ---
 
-## ✅ Completed Projects
+## 🔍 Projects
 
-| Project                     | Concepts Applied                           | Status |
-|----------------------------|---------------------------------------------|--------|
-| Titanic Survival Predictor | Logistic Regression, EDA, Model Evaluation  | ✅ Done |
-| House Price Estimator      | Linear Regression, Feature Scaling          | ✅ Done |
-| Iris Flower Classifier     | KNN, Data Visualization, Classification     | ✅ Done |
+| Project Title              | Goal                                    | Link                                            |
+| -------------------------- | ------------------------------------------ | ----------------------------------------------- |
+| Laptop Price Predictor | Predict the price of a laptop based on features like Ram, Processor, Storage, GPU, Sreen Size, etc.| [View Project](./Laptop_Price_Predictor) |
+| Diabaties Predictor | Predict Wether the perosn have Diabetes or not using features like Glucose, BloodPressure, SkinThickness, Age, etc.| [View Project](./Diabetes_Predictor) |
 
 ---
 
