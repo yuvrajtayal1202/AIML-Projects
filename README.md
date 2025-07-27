@@ -11,8 +11,13 @@ Each project is designed to reinforce theoretical understanding with practical i
 | Project Title              | Goal                                    | Link                                            |
 | -------------------------- | ------------------------------------------ | ----------------------------------------------- |
 | Linear Regression From Sratch | Building the model from the scratch by own to get more deeper knowledge| [View Project](./Laptop_Price_Predictor) |
+
+| Linear Regression From Sratch | Building the model from the scratch by own to get more deeper knowledge| [View Project](./Laptop_Price_Predictor) |
+
 | Laptop Price Predictor | Predict the price of a laptop based on features like Ram, Processor, Storage, GPU, Sreen Size, etc.| [View Project](./Laptop_Price_Predictor) |
+
 | Diabaties Predictor | Predict Wether the perosn have Diabetes or not using features like Glucose, BloodPressure, SkinThickness, Age, etc.| [View Project](./Diabetes_Predictor) |
+
 | Titanic Survival Prediction | Predict Wether the perosn have Survived or not mainly predicting on Gender and Class| [View Project](./Diabetes_Predictor) |
 
 ---
