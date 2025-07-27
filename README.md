@@ -8,17 +8,13 @@ Each project is designed to reinforce theoretical understanding with practical i
 
 ## 🔍 Projects
 
-| Project Title              | Goal                                    | Link                                            |
-| -------------------------- | ------------------------------------------ | ----------------------------------------------- |
-| Spam Email Prediction System | Predicting the emails are Ham or Spam?, Based on the Commonn Spam Words| [View Project](./Spam_Email_Prediction) |
-
-| Linear Regression From Sratch | Building the model from the scratch by own to get more deeper knowledge| [View Project](./Laptop_Price_Predictor) |
-
-| Laptop Price Predictor | Predict the price of a laptop based on features like Ram, Processor, Storage, GPU, Sreen Size, etc.| [View Project](./Laptop_Price_Predictor) |
-
-| Diabaties Predictor | Predict Wether the perosn have Diabetes or not using features like Glucose, BloodPressure, SkinThickness, Age, etc.| [View Project](./Diabetes_Predictor) |
-
-| Titanic Survival Prediction | Predict Wether the perosn have Survived or not mainly predicting on Gender and Class| [View Project](./Diabetes_Predictor) |
+| Project Title                  | Goal                                                                                                         | Link                                          |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------ | --------------------------------------------- |
+| Spam Email Prediction System   | Predicting whether emails are Ham or Spam, based on common spam words                                        | [View Project](./Spam_Email_Prediction)       |
+| Linear Regression From Scratch | Building the model from scratch to gain deeper knowledge                                                     | [View Project](./Linear_Regression_Scratch)   |
+| Laptop Price Predictor         | Predict the price of a laptop based on features like RAM, Processor, Storage, GPU, Screen Size, etc.         | [View Project](./Laptop_Price_Predictor)      |
+| Diabetes Predictor             | Predict whether the person has Diabetes using features like Glucose, BloodPressure, SkinThickness, Age, etc. | [View Project](./Diabetes_Predictor)          |
+| Titanic Survival Prediction    | Predict whether the person survived or not, mainly based on Gender and Class                                 | [View Project](./Titanic_Survival_Prediction) |
 
 ---
 
