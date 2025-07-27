@@ -10,7 +10,7 @@ Each project is designed to reinforce theoretical understanding with practical i
 
 | Project Title              | Goal                                    | Link                                            |
 | -------------------------- | ------------------------------------------ | ----------------------------------------------- |
-| Linear Regression From Sratch | Building the model from the scratch by own to get more deeper knowledge| [View Project](./Laptop_Price_Predictor) |
+| Spam Email Prediction System | Predicting the emails are Ham or Spam?, Based on the Commonn Spam Words| [View Project](./Spam_Email_Prediction) |
 
 | Linear Regression From Sratch | Building the model from the scratch by own to get more deeper knowledge| [View Project](./Laptop_Price_Predictor) |
 
