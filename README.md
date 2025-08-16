@@ -9,21 +9,43 @@ this repo will guide you through my journey — from small experiments to full e
 
 ---
 
+## 🟡 End-to-End Projects
 
-## 🟡 End to End Projects
+| 📁 Project Name | 🔗 Live Demo | 🕰️ Date Created | 🛠️ Tech Stack | 📌 Status | 🔗 Repo Link |
+|-----------------|--------------|-----------------|----------------|------------|--------------|
+| 🌱 **AgroScan-AI** | Coming Soon | Aug 2025 | Firebase, React, CRUD, Router, Authentication | 🚧 In Progress | [View Repo](https://github.com/yuvrajtayal1202/AgroScan-AI) |
 
-| 📁 Project Name| 🔗 Live Demo| 🕰️ Date Created| 🛠️ Tech Stack| 📌 Status| 📁 Folder Link|| ------------------| -----------------------------------------------------------------------------------------| ---------------| ----------------------------------------------| --------------| --------------------------------|
-<!-- | 🌱AgroScan-AI | [View](https://notesnest-one.vercel.app/)| May'2025| Fire Base, React, CRUD, Router, Authentication| 🚧 In Progress| [`link`](./projects/DevNotes)| -->
-
-| 🌱AgroScan-AI | Coming Soon| August'2025| Fire Base, React, CRUD, Router, Authentication| 🚧 In Progress| [`link`](https://github.com/yuvrajtayal1202/AgroScan-AI)|
-
-_(This table will grow daily as I push more Real time best Projects here.)_
-
-<!-- 🧪 Testing
-🚧 In Progress -->
+> _(This table will grow daily as I push more real-time projects here.)_
 
 ---
 
+## 🟢 Beginner Projects
+
+| 📁 Project Name | 🛠️ Tech Stack | 📌 Status | 🔗 Repo Link |
+|-----------------|----------------|------------|--------------|
+| 📊 **ML Basics** | Python, Pandas, Scikit-Learn | ✅ Completed | [View Repo](https://github.com/yuvrajtayal1202/ML-Basics) |
+| 🧮 **Linear Regression** | Python, Numpy, Matplotlib | ✅ Completed | [View Repo](https://github.com/yuvrajtayal1202/Linear-Regression) |
+| 🔢 **Logistic Regression** | Python, Scikit-Learn | ✅ Completed | [View Repo](https://github.com/yuvrajtayal1202/Logistic-Regression) |
+
+---
+
+## 🔵 Intermediate Projects
+
+| 📁 Project Name | 🛠️ Tech Stack | 📌 Status | 🔗 Repo Link |
+|-----------------|----------------|------------|--------------|
+| 🤖 **K-Means Clustering** | Python, Scikit-Learn, Matplotlib | ✅ Completed | [View Repo](https://github.com/yuvrajtayal1202/K-Means-Clustering) |
+| 🌐 **NLP Preprocessing** | Python, NLTK, SpaCy | 🚧 In Progress | [View Repo](https://github.com/yuvrajtayal1202/NLP-Preprocessing) |
+
+---
+
+## 🔴 Advanced Projects
+
+| 📁 Project Name | 🛠️ Tech Stack | 📌 Status | 🔗 Repo Link |
+|-----------------|----------------|------------|--------------|
+| 🧠 **Deep Learning Playground** | Python, TensorFlow, Keras | 🚧 In Progress | [View Repo](https://github.com/yuvrajtayal1202/Deep-Learning-Playground) |
+| 📦 **MLOps Pipeline** | FastAPI, Docker, CI/CD | 🚧 In Progress | [View Repo](https://github.com/yuvrajtayal1202/MLOps-Pipeline) |
+
+---
 
 ## 🛠 Tech Stack
 
