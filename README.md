@@ -14,7 +14,7 @@ this repo will guide you through my journey — from small experiments to **full
 | 📁 Project Name                                     |  🗓️ Date | 🛠️ Tech Stack                                                                     | 📌 Status      | 🔗 Repo Link                                                |
 | ------------------------------------------------------- | --------------- | ------------------------------------------------------------- | -------------- | ----------------------------------------------------------- |
 | 🌿 **AgroScan-AI** – Plant & Tree Disease Detection |  Aug 2025 | React (Vite), Tailwind, FastAPI, TensorFlow/Keras | 🚧 In Progress | [View Repo](https://github.com/yuvrajtayal1202/AgroScan-AI) |
-| 🏠 **House_Price_Prediction**    |  Aug 2025 | React (Vite), Tailwind, FastAPI, TensorFlow/Keras, Firebase/MongoDB, Vercel/Render | 🚧 In Progress | [View Repo](https://github.com/yuvrajtayal1202/House_Price_Predictions) |
+| 🏠 **House_Price_Prediction**    |  Aug 2025 | React (Vite), Tailwind, FastAPI, TensorFlow/Keras | 🚧 In Progress | [View Repo](https://github.com/yuvrajtayal1202/House_Price_Predictions) |
 | 🐞 **Potato_Disease_Prediction**       | July 2025 |Python, CV, Sklearn/DL                   | ✅ Completed    | [View Repo](https://github.com/yuvrajtayal1202/Potata_Disease_Prediction)          |
 | 🧪 **Multiple-Disease-Prediction**    | July 2025 |Python, Streamlit/Sklearn    | ✅ Completed | [View Repo](https://github.com/yuvrajtayal1202/Multiple-Disease-Prediction)    |
 | 👨‍🎓 **Student-Grade-Prediction**    | July 2025 |Python, Streamlit/Sklearn    | ✅ Completed | [View Repo](https://github.com/yuvrajtayal1202/ml-projects)    |
