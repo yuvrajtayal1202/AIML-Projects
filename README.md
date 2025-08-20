@@ -76,7 +76,7 @@ this repo will guide you through my journey — from small experiments to full e
 * **Deployment:** AWS, Hugging Face Spaces, Render, Vercel
 
 ---
-
+<!-- 
 ## 🔁 Auto-Update (Optional)
 
 You can automate this README to refresh daily/weekly:
@@ -103,7 +103,7 @@ You can automate this README to refresh daily/weekly:
 
 </details>
 
----
+--- -->
 
 ## 📬 Connect
 
