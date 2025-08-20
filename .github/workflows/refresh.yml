@@ -1,0 +1,30 @@
+name: Refresh README (AI/ML)
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 5 * * 1'  # Every Monday 05:00 UTC
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install deps
+        run: pip install PyGithub jinja2 requests
+      - name: Generate README
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USERNAME: yuvrajtayal1202
+        run: |
+          python .github/scripts/generate_readme.py
+      - name: Commit & Push
+        run: |
+          git config user.name "readme-bot"
+          git config user.email "readme-bot@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: auto-refresh README"
+          git push
